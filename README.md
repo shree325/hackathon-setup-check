@@ -14,7 +14,7 @@ Then:
 
 ```
 git clone <this repo>
-cd setup-check
+cd hackathon-setup-check
 LLM_API_KEY=<your key> ./check.sh          # macOS / Linux
 set LLM_API_KEY=<your key> && check.cmd    # Windows
 ```
